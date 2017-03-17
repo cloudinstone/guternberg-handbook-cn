@@ -1,0 +1,35 @@
+/**
+ * Basic
+ */
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	max-width: 720px;
+	margin: 60px auto;
+	color: #191e23;
+}
+
+*[contenteditable] {
+	outline: none;
+}
+
+body #editor a {
+	color: #009fd4;
+	padding: 0 2px;
+}
+
+a[data-mce-selected] {
+	background: #dcf2f8;
+	border-radius: 1px;
+	box-shadow: 0 0 0 1px #dcf2f8;
+}
