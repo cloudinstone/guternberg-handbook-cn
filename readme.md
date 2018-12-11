@@ -7,7 +7,7 @@ The Gutenberg project provides three sources of documentation:
 学习如何构建区块并扩展编辑器，设计区块接口的最佳实践，以及如何充分利用Gutenberg提供的新功能去创建主题。
 
 
-[Visit the Designer & Developer Handbook](../docs/designers-developers/readme.md)
+[Visit the Designer & Developer Handbook](designers-developers/readme.md)
 
 ## 用户手册
 
