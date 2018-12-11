@@ -9,11 +9,11 @@ The Gutenberg project provides three sources of documentation:
 
 [Visit the Designer & Developer Handbook](../docs/designers-developers/readme.md)
 
-## User Handbook
+## 用户手册
 
 了解Gutenberg提供的新功能，了解新编辑器将如何影响您的网站以及如何继续使用旧界面，以及创建精美文章和页面的技巧。
 
-## Contributor Handbook
+## 贡献者手册
 
 通过提供想法，代码，测试等帮助Gutenberg变得更好。
 
